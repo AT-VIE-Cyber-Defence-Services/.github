@@ -1,1 +1,1 @@
-# .github
+# Eviden scripts and libraries
